@@ -1,4 +1,4 @@
-# raspberry-pi-projects
+# Raspberry-pi-projects
 
 ## Description
 
