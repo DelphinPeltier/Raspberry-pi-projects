@@ -35,7 +35,7 @@ Jellyfin permet de streamer films, séries, musique et photos vers des navigateu
 
 ---
 
-## 🛠️ Technologies utilisées
+## Technologies utilisées
 
 | Outil | Rôle |
 |-------|------|
@@ -59,4 +59,5 @@ Jellyfin permet de streamer films, séries, musique et photos vers des navigateu
 | Interface web locale | `http://192.168.1.X:8096` |
 | Application mobile | Jellyfin sur App Store / Google Play |
 | Client TV | Jellyfin pour Android TV, Kodi |
+
 
