@@ -18,7 +18,7 @@ Jellyfin permet de streamer films, séries, musique et photos vers des navigateu
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 [Navigateur / App Jellyfin / Smart TV]
@@ -45,17 +45,18 @@ Jellyfin permet de streamer films, séries, musique et photos vers des navigateu
 
 ---
 
-## 📚 Documentation
+##  Documentation
 
 - [Installation](./installation.md) — Mise en place de Jellyfin
 - [Configuration](./configuration.md) — Bibliothèques, utilisateurs et accès
 
 ---
 
-## ⚡ Accès rapide
+## Accès rapide
 
 | Interface | URL |
 |-----------|-----|
 | Interface web locale | `http://192.168.1.X:8096` |
 | Application mobile | Jellyfin sur App Store / Google Play |
 | Client TV | Jellyfin pour Android TV, Kodi |
+
