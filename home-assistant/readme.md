@@ -53,10 +53,11 @@ Mise en place d'un **serveur domotique** avec Home Assistant sur Raspberry Pi po
 
 ---
 
-##⚡ Accès rapide
+## Accès rapide
 
 | Interface | URL |
 |-----------|-----|
 | Interface web locale | `http://homeassistant.local:8123` |
 | IP directe | `http://192.168.1.X:8123` |
 | Application mobile | Home Assistant sur App Store / Google Play |
+
