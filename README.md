@@ -73,6 +73,25 @@ Objectifs :
 
 ---
 
+## Matériel utilisé
+
+- Raspberry Pi 3 et 4 / 8 Go Ram
+- Carte microSD 32 Go 
+- Alimentation officielle 5V / 3A USB-C
+- Boîtier avec dissipateurs thermiques
+- Disque dur externe USB (pour le NAS et le serveur multimédia)
+- Écran tactile 7" (pour Android Auto)
+
+---
+
 ## Objectif
 
 Ces projets ont pour but d’approfondir mes connaissances en systèmes, réseau et administration Linux dans un environnement de laboratoire personnel (homelab).
+
+
+## Prérequis généraux
+Avant de commencer l'un de ces projets, on fait toujours :
+
+- Flasher Raspberry Pi OS Lite 64-bit via Raspberry Pi Imager
+- Activer SSH au premier démarrage 
+- Configurer une adresse IP statique sur le Raspberry Pi
